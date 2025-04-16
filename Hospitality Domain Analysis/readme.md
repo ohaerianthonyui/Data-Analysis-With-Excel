@@ -67,7 +67,8 @@ A dynamic and interactive executive dashboard was developed to visualize KPIs su
 - **Top Booking Month**: March (651 bookings)  
 - **Lowest Sales Month**: April ($2,796,502.50)
 
-  ![Screenshot_16-4-2025_131254_](https://github.com/user-attachments/assets/50369c7b-922c-45af-81aa-2a11af84e725)
+![Screenshot_16-4-2025_131331_](https://github.com/user-attachments/assets/bbe1d2e4-20d5-472e-aa56-e4b71dc42382)
+
 
 
 ### 🛏️ Room Type Performance:
